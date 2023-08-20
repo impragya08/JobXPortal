@@ -1,80 +1,88 @@
-# Build Job listing website with React JS
 
-This repository contains code for Job listing website in reactjs.
+# JobXPortal: Advanced Job Listing Website
 
-View Demo:
-https://react-job-listing-website.vercel.app/
+Welcome to JobXPortal, an advanced job listing website built using React JS. Find your dream job with ease by using our powerful filtering options. Whether you're looking for a specific role, location, or skillset, JobXPortal makes job searching efficient and effective.
 
-If you want to learn how to create it please follow below tutorial:
+## Demo
 
-https://youtu.be/-0zQTq4mZAA
+Experience JobXPortal in action by visiting our live demo:
+
+[JobXPortal Live Demo](https://job-x-portal.vercel.app/)
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://github.com/impragya08/JobXPortal/assets/84717393/03779631-657c-4f38-8ee8-195bd249a24d)
 
-## Available Scripts
+## Frontend Mentor Challenge
 
-In the project directory, you can run:
+This project is based on the [Job Listings with Filtering challenge](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt) from Frontend Mentor. I'd like to express our gratitude to Frontend Mentor for providing this fantastic challenge, which allowed me to enhance my skills and create JobXPortal.
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Browse a wide range of job listings from diverse industries.
+- Refine your job search using advanced filters such as role, location, and skills.
+- Real-time updates as you apply filters, ensuring you see the most relevant listings.
+- User-friendly interface for effortless navigation and efficient job hunting.
+- Responsive design for seamless browsing on all devices.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Getting Started
 
-### `npm test`
+To run JobXPortal on your local machine, follow these steps:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Prerequisites
 
-### `npm run build`
+- Node.js and npm installed on your computer.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone this repository to your local machine:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   ```bash
+   git clone https://github.com/impragya08/JobXPortal.git
+   ```
 
-### `npm run eject`
+2. Navigate to the project directory:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+   ```bash
+   cd JobXPortal
+   ```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. Install the necessary dependencies:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+   ```bash
+   npm install
+   ```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Usage
+
+1. Start the development server:
+
+   ```bash
+   npm start
+   ```
+
+2. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to access JobXPortal.
+
+## Contributing
+
+Contributions are welcome! If you encounter any issues or have ideas for improvements, feel free to open an issue or submit a pull request.
+
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+For more details on creating React apps and working with React JS, refer to the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To learn more about React itself, explore the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+For inquiries or feedback, you can reach out to:
 
-### Analyzing the Bundle Size
+- Pragya Srivastava
+- Email: thisis.pragyasrivastava@gmail.com
+- LinkTree: [Pragya's Linktree](https://linktr.ee/itspragya)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+Happy job searching with JobXPortal!
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
