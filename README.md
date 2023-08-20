@@ -14,7 +14,7 @@ Experience JobXPortal in action by visiting our live demo:
 
 ## Frontend Mentor Challenge
 
-This project is based on the [Job Listings with Filtering challenge](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt) from Frontend Mentor. I'd like to express our gratitude to Frontend Mentor for providing this fantastic challenge, which allowed me to enhance my skills and create JobXPortal.
+This project is based on the [Job Listings with Filtering challenge](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt) from Frontend Mentor. I'd like to express my gratitude to Frontend Mentor for providing this fantastic challenge, which allowed me to enhance my skills and create JobXPortal.
 
 ## Features
 
