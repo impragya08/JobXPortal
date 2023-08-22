@@ -84,5 +84,4 @@ For inquiries or feedback, you can reach out to:
 ---
 
 Happy job searching with JobXPortal!
-```
 
